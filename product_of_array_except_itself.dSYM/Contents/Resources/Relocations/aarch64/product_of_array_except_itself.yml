@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/ExtraSpace/LeetCode/product_of_array_except_itself'
+relocations:     []
+...

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/ExtraSpace/LeetCode/contains_duplicates_2ndTry'
+relocations:     []
+...

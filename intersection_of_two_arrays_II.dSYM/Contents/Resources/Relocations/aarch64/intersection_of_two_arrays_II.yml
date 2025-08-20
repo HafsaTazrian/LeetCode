@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/ExtraSpace/LeetCode/intersection_of_two_arrays_II'
+relocations:     []
+...
