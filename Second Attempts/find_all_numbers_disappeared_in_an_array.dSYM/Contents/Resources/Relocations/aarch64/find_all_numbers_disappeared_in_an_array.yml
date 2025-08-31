@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/ExtraSpace/LeetCode/Second Attempts/find_all_numbers_disappeared_in_an_array'
+relocations:     []
+...
